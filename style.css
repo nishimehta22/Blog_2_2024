@@ -1,19 +1,19 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-    color: green;
+    color: yellowgreen;
     margin: 0;
     padding: 20px;
   }
 h2{
 text-align: center;
- color: #005f99;
+ color: pink;
   font-size: 50px;
   margin-bottom: 20px;
 }  
 p{
-  color:rebeccapurple;
+  color:hotpink;
 }
 time{
-  color: red;
+  color: blue;
 }
